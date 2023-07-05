@@ -1,2 +1,3 @@
 # Accelerometer_Plot
-Plot raw accelerometer data
+
+Codes to plot raw accelerometer data obtained by TADAS Stations [AFAD](https://tadas.afad.gov.tr/map).
